@@ -87,13 +87,13 @@ I hold a degree in Information Technology with a focus on data analytics.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
+<a href="http://https://github.com/Samiksha1310"><img src="https://github-readme-stats.vercel.app/api?username=Samiksha1310&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali06112023&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://https://github.com/Samiksha1310"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiksha1310&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali06112023&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
+<a href="https://github.com/Samiksha1310" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samiksha1310&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
 https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Samiksha1310"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Samikha1310&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
